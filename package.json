@@ -1,0 +1,29 @@
+{
+  "name": "cd2-nodeapit4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "server": "nodemon index.js",
+    "carlos": "node carlos.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HeyClos/cd2-nodeapit4.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HeyClos/cd2-nodeapit4/issues"
+  },
+  "homepage": "https://github.com/HeyClos/cd2-nodeapit4#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "helmet": "^3.21.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.3"
+  }
+}
