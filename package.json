@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/HeyClos/cd2-nodeapit4#readme",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.18.2",
     "helmet": "^3.21.1"
   },
   "devDependencies": {
